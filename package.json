@@ -1,7 +1,13 @@
 {
   "name": "google-serp-preview-uix",
+  "description": "Google SERP Preview - Sidebar UI Extension for GraphCMS",
+  "author": "Cadu de Castro Alves <cadu.alves@graphcms.com>",
   "version": "0.1.0",
+  "repository": "github:GraphCMS/google-serp-preview-uix",
   "private": true,
+  "bugs": {
+    "url" : "https://github.com/GraphCMS/google-serp-preview-uix/issues"
+  },
   "dependencies": {
     "@graphcms/uix-react-sdk": "^0.2.0-alpha.0",
     "@testing-library/jest-dom": "^5.16.1",
